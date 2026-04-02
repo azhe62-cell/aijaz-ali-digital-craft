@@ -61,7 +61,7 @@ const PortfolioSection = () => {
 
         {/* Design grid */}
         {tab === "design" && (
-          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {designWorks.map((work) => (
               <div key={work.title} className="group relative overflow-hidden rounded-xl border border-border hover:border-gold/50 transition-all hover-glow">
                 <img src={work.img} alt={work.title} loading="lazy" className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" />
