@@ -13,6 +13,7 @@ import shop2Img from "@/assets/portfolio-shop2.jpg";
 const designWorks = [
   { img: posterImg, title: "Premium Poster Design", category: "Poster" },
   { img: flyerImg, title: "Luxury Event Flyer", category: "Flyer" },
+  { img: flyer2Img, title: "Flyer Design", category: "Flyer" },
   { img: logoImg, title: "Brand Logo Design", category: "Logo" },
   { img: brandImg, title: "Complete Brand Identity", category: "Branding" },
 ];
