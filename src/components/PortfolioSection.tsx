@@ -4,6 +4,7 @@ import { ExternalLink } from "lucide-react";
 
 import posterImg from "@/assets/portfolio-poster1.jpg";
 import flyerImg from "@/assets/portfolio-flyer1.jpg";
+import flyer2Img from "@/assets/portfolio-flyer2.png";
 import logoImg from "@/assets/portfolio-logo1.jpg";
 import brandImg from "@/assets/portfolio-brand1.jpg";
 import shop1Img from "@/assets/portfolio-shop1.jpg";
@@ -12,6 +13,7 @@ import shop2Img from "@/assets/portfolio-shop2.jpg";
 const designWorks = [
   { img: posterImg, title: "Premium Poster Design", category: "Poster" },
   { img: flyerImg, title: "Luxury Event Flyer", category: "Flyer" },
+  { img: flyer2Img, title: "Flyer Design", category: "Flyer" },
   { img: logoImg, title: "Brand Logo Design", category: "Logo" },
   { img: brandImg, title: "Complete Brand Identity", category: "Branding" },
 ];
