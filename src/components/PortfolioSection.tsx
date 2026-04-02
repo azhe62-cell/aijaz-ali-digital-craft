@@ -4,6 +4,7 @@ import { ExternalLink } from "lucide-react";
 
 import posterImg from "@/assets/portfolio-poster1.jpg";
 import flyerImg from "@/assets/portfolio-flyer1.jpg";
+import flyer2Img from "@/assets/portfolio-flyer2.png";
 import logoImg from "@/assets/portfolio-logo1.jpg";
 import brandImg from "@/assets/portfolio-brand1.jpg";
 import shop1Img from "@/assets/portfolio-shop1.jpg";
