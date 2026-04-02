@@ -3,19 +3,19 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 import { ExternalLink } from "lucide-react";
 
 import posterImg from "@/assets/portfolio-poster1.jpg";
+import posterImg2 from "@/assets/portfolio-poster2.png";
 import flyerImg from "@/assets/portfolio-flyer1.jpg";
 import flyer2Img from "@/assets/portfolio-flyer2.png";
 import logoImg from "@/assets/portfolio-logo1.jpg";
 import brandImg from "@/assets/portfolio-brand1.jpg";
-import shop1Img from "@/assets/portfolio-shop1.jpg";
-import shop2Img from "@/assets/portfolio-shop2.jpg";
 
 const designWorks = [
-  { img: posterImg, title: "Premium Poster Design", category: "Poster" },
-  { img: flyerImg, title: "Luxury Event Flyer", category: "Flyer" },
-  { img: flyer2Img, title: "Flyer Design", category: "Flyer" },
-  { img: logoImg, title: "Brand Logo Design", category: "Logo" },
-  { img: brandImg, title: "Complete Brand Identity", category: "Branding" },
+  { img: posterImg, title: "Poster Design", category: "Poster Design" },
+  { img: posterImg2, title: "Poster Design", category: "Poster Design" },
+  { img: flyerImg, title: "Flyer Design", category: "Flyer Design" },
+  { img: flyer2Img, title: "Flyer Design", category: "Flyer Design" },
+  { img: logoImg, title: "Logo Design", category: "Logo Design" },
+  { img: brandImg, title: "Brand Identity", category: "Branding" },
 ];
 
 const ecomWorks = [
